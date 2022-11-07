@@ -1,6 +1,6 @@
 configuration {
  modi: "window,drun,ssh,combi";
- font: "Ubuntu Nerd font 13";
+ font: "JetBrainsMono Nerd Font 13";
  combi-modi: "window,drun,ssh";
  }
 @theme "Arc-Dark"
