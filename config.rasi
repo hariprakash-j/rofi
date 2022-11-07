@@ -3,4 +3,4 @@ configuration {
  font: "JetBrainsMono Nerd Font 13";
  combi-modi: "window,drun,ssh";
  }
-@theme "Arc-Dark"
+@theme "rounded-dracula"
